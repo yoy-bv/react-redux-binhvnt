@@ -1,0 +1,10 @@
+Require nodejs LST (current is 14.15.4) version
+
+# install package
+npm install
+
+# development
+npm start
+
+# test
+npm test
